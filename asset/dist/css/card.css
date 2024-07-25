@@ -1,0 +1,31 @@
+
+    .card {
+        height: 250px;
+        width: 100%;
+        background: #e8e8e8;
+        box-shadow: 1px 1px 5px lightgrey;
+        padding: 10px;
+        border: 1px solid lightgrey;
+        border-radius: 4px;
+    }
+
+    .badge {
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+    .badge.bg-success {
+        background-color: #5CB85C;
+        color: #fff;
+    }
+    .badge.bg-warning {
+        background-color: #F0AD4E;
+        color: #fff;
+    }
+    .badge.bg-danger {
+        background-color: #D9534F;
+        color: #fff;
+    }
+    .btn-sm {
+        padding: 5px 10px;
+    }
+
